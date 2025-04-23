@@ -1,1 +1,1 @@
-# STM
+# Multi-agent System (MAS)
