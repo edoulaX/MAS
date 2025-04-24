@@ -1,4 +1,5 @@
 Github Surevey: 
+- https://github.com/AGI-Edgerunners/LLM-Agents-Papers/tree/main
 - https://github.com/luo-junyu/Awesome-Agent-Papers?tab=readme-ov-file#-key-categories
 - https://github.com/kyegomez/awesome-multi-agent-papers?tab=readme-ov-file
 - https://github.com/richardblythman/awesome-multi-agent-systems
