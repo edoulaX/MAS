@@ -1,3 +1,7 @@
+Github Surevey: 
+- https://github.com/luo-junyu/Awesome-Agent-Papers?tab=readme-ov-file#-key-categories
+- https://github.com/kyegomez/awesome-multi-agent-papers?tab=readme-ov-file
+- https://github.com/richardblythman/awesome-multi-agent-systems
 
 LangGraph vs LangChain: 
 - https://www.youtube.com/watch?v=qAF1NjEVHhY&t=19s
