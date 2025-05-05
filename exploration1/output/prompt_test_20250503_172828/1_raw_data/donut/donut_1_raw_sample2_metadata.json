@@ -1,0 +1,10 @@
+{
+    "category": "donut",
+    "processing_step": "1_raw",
+    "step_details": "Original wafermap data (Sample 2)",
+    "sample_index": 2,
+    "variation": 0,
+    "timestamp": "2025-05-03 17:30:45",
+    "prompt": "",
+    "hyperparameters": {}
+}

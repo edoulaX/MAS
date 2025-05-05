@@ -1,0 +1,10 @@
+{
+    "category": "donut",
+    "processing_step": "2_preprocessed_gray",
+    "step_details": "Preprocessed grayscale version (Sample 1)",
+    "sample_index": 1,
+    "variation": 0,
+    "timestamp": "2025-05-03 17:53:20",
+    "prompt": "",
+    "hyperparameters": {}
+}

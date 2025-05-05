@@ -1,0 +1,16 @@
+{
+    "center": {
+        "name": "Tennis Ball Transform",
+        "prompts": {
+            "base": "a tennis ball",
+            "enhanced": "Professional product photography of a pristine tennis ball, perfectly centered, vibrant yellow felt texture, crisp focus on surface details, pure white background, studio lighting setup with soft boxes, 8k resolution, commercial product photography, minimalist composition, high contrast"
+        }
+    },
+    "donut": {
+        "name": "Donut Transform",
+        "prompts": {
+            "base": "a classic donut with sprinkles",
+            "enhanced": "Professional food photography of a freshly baked artisanal donut with colorful sprinkles, showing detailed texture and glaze, studio lighting setup with soft boxes, crisp focus, pure white background, 8k resolution, commercial photography, centered composition, dramatic lighting, high-end advertising style"
+        }
+    }
+}

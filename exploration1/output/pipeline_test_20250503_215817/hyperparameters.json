@@ -1,0 +1,12 @@
+{
+    "model": "CompVis/stable-diffusion-v1-4",
+    "parameters": {
+        "guidance_scale": 7.5,
+        "num_inference_steps": 50,
+        "strength": 0.75,
+        "num_variations": 1,
+        "image_size": 512,
+        "defect_threshold": 128
+    },
+    "timestamp": "2025-05-03 21:58:26"
+}

@@ -1,0 +1,17 @@
+{
+    "category": "center_with_center_prompt",
+    "processing_step": "3_generated_gray",
+    "step_details": "Generated from gray input using center prompt (Sample 2)",
+    "sample_index": 2,
+    "variation": 3,
+    "timestamp": "2025-05-03 17:52:42",
+    "prompt": "Professional sports photography of a bright yellow tennis ball with detailed fuzzy texture, showing intricate fabric patterns, studio lighting setup with soft boxes, crisp focus, pure white background, 8k resolution, commercial photography, centered composition, dramatic lighting, high-end advertising style",
+    "hyperparameters": {
+        "guidance_scale": 7.5,
+        "num_inference_steps": 50,
+        "strength": 0.75,
+        "num_variations": 3,
+        "image_size": 512,
+        "defect_threshold": 128
+    }
+}

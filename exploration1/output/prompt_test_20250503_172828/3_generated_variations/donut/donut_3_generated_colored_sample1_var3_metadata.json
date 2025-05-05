@@ -1,0 +1,17 @@
+{
+    "category": "donut",
+    "processing_step": "3_generated_colored",
+    "step_details": "Generated from colored input using Stable Diffusion (Sample 1)",
+    "sample_index": 1,
+    "variation": 3,
+    "timestamp": "2025-05-03 17:30:26",
+    "prompt": "Professional food photography of a freshly baked artisanal donut with colorful sprinkles, showing detailed texture and glaze, studio lighting setup with soft boxes, crisp focus, pure white background, 8k resolution, commercial photography, centered composition, dramatic lighting, high-end advertising style",
+    "hyperparameters": {
+        "guidance_scale": 7.5,
+        "num_inference_steps": 50,
+        "strength": 0.75,
+        "num_variations": 3,
+        "image_size": 512,
+        "defect_threshold": 128
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "category": "Edge-Loc",
+    "processing_step": "3_generated_colored",
+    "step_details": "Generated from colored input using Stable Diffusion",
+    "variation": 3,
+    "timestamp": "2025-05-03 17:09:23",
+    "hyperparameters": {
+        "guidance_scale": 7.5,
+        "num_inference_steps": 50,
+        "strength": 0.75,
+        "num_variations": 3,
+        "image_size": 512,
+        "defect_threshold": 128
+    }
+}
